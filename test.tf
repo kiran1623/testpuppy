@@ -19,4 +19,5 @@ resource "azurerm_resource_group" "main" {
   location = "westus"
 }
 babu 
+subscriptio
 
