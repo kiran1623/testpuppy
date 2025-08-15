@@ -18,4 +18,5 @@ resource "azurerm_resource_group" "main" {
   name     = "rg-test-01"
   location = "westus"
 }
+babu 
 
