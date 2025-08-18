@@ -20,4 +20,6 @@ resource "azurerm_resource_group" "main" {
 }
 babu 
 subscriptio
+resi
+
 
